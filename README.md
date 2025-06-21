@@ -1,7 +1,7 @@
 <div>
   <!-- Profil fotoğrafı, tema bazlı farklı resim gösterme -->
   <picture>
-    <img width= "350" height="126" src="badges/izem.png" alt="izem">
+    <img width= "400" height="126" src="badges/izem.png" alt="izem">
   </picture>
   <br>
   <br>
